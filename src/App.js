@@ -53,6 +53,7 @@ function App() {
             <div className="wind">
               {data.wind ? <p className='bold'>{data.wind.speed.toFixed()} MPH</p> : null}
               <p>Wind Speed</p>
+              <p>Motu I Love You</p>
             </div>
           </div>
         }
